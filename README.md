@@ -1,2 +1,2 @@
-# onlineShikshane.project
-OnlineShikshan it is Responsive web design create using HTML,CSS &amp; Javascrip.
+# TryGit.project
+This project only for try git first.
